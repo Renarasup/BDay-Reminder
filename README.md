@@ -2,6 +2,8 @@
 
 This app stores all your friends' birthdays and reminds you the day of or a couple days before!
 
+# Note
+
 This app was designed and developed in the span of 2 weeks hackathon style and uploaded to the app store. https://appsto.re/us/voz2db.i
 
 The code is not the cleanest but it has great examples of how to use Core Data, SWRevealController, dynamic and static UITableViews with sections, Contacts framework, using NSDate, UIPickers for dates, etc..
