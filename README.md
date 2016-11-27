@@ -2,12 +2,26 @@
 
 This app stores all your friends' birthdays and reminds you the day of or a couple days before!
 
+
+![demo](http://i.imgur.com/T0RQEKj.gif)
+
+
+###Features
+* Displaying friends birthday by upcoming, months, alphabetical, and boards
+* Import from contacts
+* Set birthday reminders
+
+###Code Examples for 
+* Core Data
+* Static UITableView
+* Contacts framework
+* UIPIcker for dates
+* NSDate
+
+
 # Note
 
 This app was designed and developed in the span of 2 weeks hackathon style and uploaded to the app store. https://appsto.re/us/voz2db.i
-
-The code is not the cleanest but it has great examples of how to use Core Data, SWRevealController, dynamic and static UITableViews with sections, Contacts framework, using NSDate, UIPickers for dates, etc..
-
 
 
 # License
